@@ -37,5 +37,5 @@ CSS (Cascading Style Sheets): Used for styling the HTML elements, including layo
 
 JavaScript: Used for implementing the application logic, fetching data from the weather API, and handling user interactions.
 
-![Screenshot 2023-06-15 192932](https://github.com/VenuAyyankar/CODTECH-Task2/assets/132980829/e028ceeb-3d6e-4931-ba43-019c965f193b)
-![Screenshot 2023-06-15 192918](https://github.com/VenuAyyankar/CODTECH-Task2/assets/132980829/ba803969-2682-4f4a-b1f1-feaa59cc7058)
+![Screenshot 2024-07-09 104231](https://github.com/VenuAyyankar/CODTECH-Task2/assets/132980829/a9d68266-3a4d-42a0-b05d-bb6e51273460)
+![Screenshot 2024-07-09 104321](https://github.com/VenuAyyankar/CODTECH-Task2/assets/132980829/7f807241-ed80-4a0a-9ed5-fa10f81a61c3)
